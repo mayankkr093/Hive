@@ -1,4 +1,4 @@
 Loading of data:
 -----------------
 
-load data inpath ‘/home/acadgild/Downloads/olympic_data.csv’ into table olympic;
+LOAD DATA INPATH 'hdfs://quickstart.cloudera:8020/user/cloudera/olympic_data' INTO TABLE olympic;
