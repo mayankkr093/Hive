@@ -1,0 +1,4 @@
+Loading of data:
+-----------------
+
+load data inpath ‘/home/acadgild/Downloads/olympic_data.csv’ into table olympic;
